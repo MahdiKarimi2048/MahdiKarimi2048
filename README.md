@@ -1,16 +1,47 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:283593,100:1E88E5&height=200&section=header&text=Hi%20There!%20I'm%20MaHdi%20Karimi%20👋&fontColor=ffffff&fontSize=30&fontAlignY=35)
 
-<!--
-**MahdiKarimi2048/MahdiKarimi2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="profile.jpg" width="150" align="right" style="border-radius: 10px;" />
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+🎓 I'm a Software Engineering student and an enthusiastic beginner in programming. I design WordPress sites and I’m diving deep into learning full-stack development technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Programming is like composing music with code, where algorithms and data structures create beautiful melodies in the digital realm.**
+
+🔧 I also have a strong knowledge of PC hardware and assembling systems.
+
+---
+
+## 🚀 Skills
+- HTML & CSS
+- JavaScript (in progress)
+- PHP (learning)
+- C# (learning)
+- WordPress Design
+- Hardware & PC Building
+
+## 🛠 Tools I Use
+- Visual Studio
+- JetBrains Rider
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiKarimi2048&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiKarimi2048&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: mhkarimi456@gmail.com
+- 📱 Phone: +98 921 656 7588
+- 💬 Telegram: [@MahdiKarimi2048](https://t.me/MahdiKarimi2048)
+- 📸 Instagram: [@MahdiKarimi2048](https://instagram.com/MahdiKarimi2048)
+
+---
+
+## 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/MahdiKarimi2048/MahdiKarimi2048/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+> Made with ❤️ by MaHdi Karimi
