@@ -52,7 +52,7 @@
       <strong>WordPress</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/computer-hardware.png" alt="Hardware" width="40"/><br/>
+      <img src="https://img.icons8.com/fluency/48/electronics.png" alt="Hardware" width="40"/><br/>
       <strong>Hardware</strong>
     </td>
   </tr>
