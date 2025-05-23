@@ -52,7 +52,7 @@
       <strong>WordPress</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/electronics.png" alt="Hardware" width="40"/><br/>
+      <img src="https://img.icons8.com/color/48/000000/electronics.png" alt="Hardware" width="40"/><br/>
       <strong>Hardware</strong>
     </td>
   </tr>
@@ -85,9 +85,9 @@
 ## 📫 Contact Me
 Feel free to reach out to me on:
 
-- 💬 [Telegram](https://t.me/MahdiKarimi2048)
+- <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="20"/> [Telegram](https://t.me/MaHdiKarimi2048) — @MaHdiKarimi2048
+- <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="20"/> [Instagram](https://instagram.com/MaHdiKarimi2048) — @MaHdiKarimi2048
 - 📧 Email: mhkarimi456@gmail.com
-- 📸 [Instagram](https://instagram.com/MahdiKarimi2048)
 
 ---
 
