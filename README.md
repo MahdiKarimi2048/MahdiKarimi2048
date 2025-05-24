@@ -93,7 +93,8 @@ Feel free to reach out to me on:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/MahdiKarimi2048/MahdiKarimi2048/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ---
