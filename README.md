@@ -100,6 +100,6 @@ Feel free to reach out to me on:
 ---
 
 ![GitHub followers](https://img.shields.io/github/followers/MahdiKarimi2048?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0MyCustomID?style=social)
+
 
 > Made with ❤️ by MaHdi Karimi
