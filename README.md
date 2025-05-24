@@ -91,8 +91,9 @@ Feel free to reach out to me on:
 
 ---
 
-## 🐍 GitHub Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/MahdiKarimi2048/MahdiKarimi2048/output/github-contribution-grid-snake.gif)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/MahdiKarimi2048/MahdiKarimi2048/output/github-contribution-grid-snake.gif)
 
 
 ---
